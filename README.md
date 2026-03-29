@@ -23,16 +23,6 @@ This project a demonstrates RAG architecture using Gemini, LlamaIndex and Qdrant
 
 # Demo
 
-<table width="600px" align="center">
-  <tr>
-    <td>
-      <video src="https://github.com/user-attachments/assets/eab8c0c5-5dbb-4945-955e-ac53715d48ea" controls muted width="100%"></video>
-    </td>
-  </tr>
-</table>
-<!-- <p align="center">
-  <video width="25%" src="https://github.com/user-attachments/assets/eab8c0c5-5dbb-4945-955e-ac53715d48ea" controls muted></video>
-</p>
-<!-- <video width="25%" src="https://github.com/user-attachments/assets/eab8c0c5-5dbb-4945-955e-ac53715d48ea" controls></video> -->
- -->
+ <video width="25%" src="https://github.com/user-attachments/assets/eab8c0c5-5dbb-4945-955e-ac53715d48ea" controls autoplay loop muted ></video>
+
 
