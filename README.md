@@ -12,11 +12,12 @@ This project demonstrates RAG architecture using Gemini, LlamaIndex and Qdrant. 
 ## Built With
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/42029362-c7d8-458a-9adc-da3de121e0ce" width="40" alt="Gemini" />
-  
+  <img src="https://github.com/user-attachments/assets/42029362-c7d8-458a-9adc-da3de121e0ce" width="50" alt="Gemini" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/run-llama/logos/blob/main/LlamaLogoSmall.png" width="50" alt="LlamaIndex" />
-  
-  <img src="https://qdrant.tech/img/brand-resources-logos/qdrant-logo-red-black.svg" width="140" alt="Qdrant" />
-  
-  <img src="https://github.com/user-attachments/assets/f8f47dc2-433a-4a10-8f13-ffdf17632274" width="150" alt="Chainlit" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="50" alt="Qdrant" src="https://github.com/user-attachments/assets/eb98fa5a-427e-4b0a-9210-e10c4a28d1e0" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="50" alt="Chainlit" src="https://github.com/user-attachments/assets/6a826412-556f-46dc-b679-e86030421af8" />
+
 </p>
