@@ -1,4 +1,4 @@
-This project demonstrates RAG architecture using Gemini, LlamaIndex and Qdrant. It highlights the agentic workflow to decide which action to take next.
+This project demonstrates RAG architecture using Gemini, LlamaIndex and Qdrant. It highlights the agentic workflow that decides which action to take next.
 # Key Features:
 
 **Agentic Framework:** Gemini to think and take actions
