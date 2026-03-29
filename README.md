@@ -9,7 +9,7 @@ This project a demonstrates RAG architecture using Gemini, LlamaIndex and Qdrant
 
 **Interactive UI:** A seamless chat experience built with Chainlit
 
-## Built With
+# Built With
 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/42029362-c7d8-458a-9adc-da3de121e0ce" width="50" alt="Gemini" />
@@ -19,5 +19,9 @@ This project a demonstrates RAG architecture using Gemini, LlamaIndex and Qdrant
   <img width="50" alt="Qdrant" src="https://github.com/user-attachments/assets/eb98fa5a-427e-4b0a-9210-e10c4a28d1e0" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="50" alt="Chainlit" src="https://github.com/user-attachments/assets/6a826412-556f-46dc-b679-e86030421af8" />
-
 </p>
+
+# Demo
+
+https://github.com/user-attachments/assets/eab8c0c5-5dbb-4945-955e-ac53715d48ea
+
