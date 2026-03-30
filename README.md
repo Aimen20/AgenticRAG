@@ -29,3 +29,6 @@ This project a demonstrates Multimodal RAG architecture using Gemini, LlamaIndex
 
 <a href="https://www.flaticon.com/free-icons/chatbot" title="chatbot icons">Chatbot icons created by littleicon - Flaticon</a>
 
+<a href="https://www.flaticon.com/free-icon/robot_18355220">Robot with three dots</a>
+
+
