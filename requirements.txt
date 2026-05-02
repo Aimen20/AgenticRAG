@@ -1,1 +1,9 @@
-pip install qdrant-client llama-index llama-index-llms-gemini llama-index-embeddings-google-genai llama-index-embeddings-clip pandas python-dotenv chainlit requests
+qdrant-client
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-google-genai
+llama-index-embeddings-clip
+pandas
+python-dotenv
+chainlit
+requests
